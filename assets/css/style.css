@@ -65,12 +65,7 @@ p{
             text-align:center;
             padding:0;
         }
-        .desktop{
-            display: none;
-        }
-        .mobile{
-            display: block;
-        }
+
         footer{
           display: none;
         } 
